@@ -38,7 +38,7 @@ grain bill. I ran with 6.125gal for dough-in, but could run a little closer to 6
 ## Saturday, July 2nd 2022
 
 - **Pre-boil SG:** 1.035
-- **Efficiency: ** 59%
+- **Efficiency:** 59%
 - *Uncorrected original gravity:* 1.040 @ 80deg
 - **Original gravity:** 1.042
 - **Yeast pitch:** ~78deg
